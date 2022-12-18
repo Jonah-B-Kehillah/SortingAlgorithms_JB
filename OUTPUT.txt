@@ -1,0 +1,22 @@
+QuickSort passed validation
+HeapSort passed validation
+RadixSort passed validation
+
+Quicksort took 69700ns to sort
+Quicksort took 63000ns to sort
+Quicksort took 53600ns to sort
+Quicksort took 30100ns to sort
+Quicksort took 12200ns to sort
+Quicksort took 16600ns to sort
+Heapsort took 119600ns to sort
+Heapsort took 116600ns to sort
+Heapsort took 113300ns to sort
+Heapsort took 27500ns to sort
+Heapsort took 25600ns to sort
+Heapsort took 13700ns to sort
+Radixsort took 80100ns to sort
+Radixsort took 76000ns to sort
+Radixsort took 82000ns to sort
+Radixsort took 28300ns to sort
+Radixsort took 26200ns to sort
+Radixsort took 31000ns to sort
